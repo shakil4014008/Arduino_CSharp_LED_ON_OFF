@@ -1,0 +1,9 @@
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\bin\Debug\Arduino.exe.config
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\bin\Debug\Arduino.exe
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\bin\Debug\Arduino.pdb
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\obj\Debug\Arduino.csprojResolveAssemblyReference.cache
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\obj\Debug\Arduino.Form1.resources
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\obj\Debug\Arduino.Properties.Resources.resources
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\obj\Debug\Arduino.csproj.GenerateResource.Cache
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\obj\Debug\Arduino.exe
+c:\users\maya\documents\visual studio 2013\Projects\Arduino\Arduino\obj\Debug\Arduino.pdb
